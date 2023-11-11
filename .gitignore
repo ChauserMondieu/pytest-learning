@@ -1,0 +1,3 @@
+# ignore pycharm-related files
+.idea
+.pytest_cache/
